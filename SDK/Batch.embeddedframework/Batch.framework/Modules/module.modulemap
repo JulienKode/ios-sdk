@@ -27,6 +27,7 @@ framework module Batch {
     
     explicit module Messaging {
         header "BatchMessaging.h"
+        header "BatchMessagingModels.h"
         export *
     }
     
@@ -38,6 +39,7 @@ framework module Batch {
     explicit module User {
         header "BatchUser.h"
         header "BatchEventData.h"
+        header "BatchUserAttribute.h"
         export *
     }
 }

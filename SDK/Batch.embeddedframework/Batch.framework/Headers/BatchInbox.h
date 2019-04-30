@@ -3,7 +3,7 @@
 //  Batch
 //
 //  https://batch.com
-//  Copyright (c) 2017 Batch SDK. All rights reserved.
+//  Copyright (c) Batch SDK. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
